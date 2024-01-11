@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537101195721",
+    "project_id": "travelbuddy-793c6",
+    "storage_bucket": "travelbuddy-793c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537101195721:android:693135db8e4447dc0b7018",
+        "android_client_info": {
+          "package_name": "com.travelbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537101195721-pscvk6epabaevuinqjskdkof28uce32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxkmYLNIPOJtVrC8oGaFWAVXMOCKkTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537101195721-pscvk6epabaevuinqjskdkof28uce32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
